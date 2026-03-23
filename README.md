@@ -1,0 +1,2 @@
+# RAGmini
+Small RAG Project
